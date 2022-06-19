@@ -1,5 +1,9 @@
 This is my first file
 This might be useful for my projects
 I write this line to test pull from github
+<<<<<<< HEAD
 THis line is added from local
 This line is just added
+=======
+This line is added from remote
+>>>>>>> 3165d62e2c344a21c186b72501c1a292f3cb2e42
